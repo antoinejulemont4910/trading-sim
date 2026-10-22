@@ -1,0 +1,12 @@
+{
+  "devise": "EUR",
+  "capital_depart": 5000,
+  "cash": 5000,
+  "risque_par_trade_pct": 1.0,
+  "perte_max_jour_pct": 3.0,
+  "frais_par_ordre": 1.0,
+  "slippage_pct": 0.05,
+  "cree_le": "2026-10-22",
+  "positions": [],
+  "historique": []
+}
