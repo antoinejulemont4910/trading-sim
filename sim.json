@@ -8,5 +8,8 @@
   "slippage_pct": 0.05,
   "cree_le": "2026-10-22",
   "positions": [],
-  "historique": []
+  "historique": [],
+  "notes": [
+    "2026-10-23 15:47 Bruxelles: passage sans donnees (Yahoo/Nasdaq Trader injoignables depuis la sandbox, proxy refuse). Aucune position ouverte, aucun scan, aucun trade. Rien simule."
+  ]
 }
