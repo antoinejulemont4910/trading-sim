@@ -11,6 +11,7 @@
   "historique": [],
   "notes": [
     "2026-10-23 15:47 Bruxelles: passage sans donnees (Yahoo/Nasdaq Trader injoignables depuis la sandbox, proxy refuse). Aucune position ouverte, aucun scan, aucun trade. Rien simule.",
-    "2026-10-23 22:05 Bruxelles: fin de seance. Aucune position ouverte, aucun trade du jour (pas de donnees au passage de 15h47, rien simule). Rien a cloturer. Capital 5000 EUR (0,0 % vs depart). 0 trade cloture au total : pas de bilan (<10 trades), aucune conclusion possible (<30)."
+    "2026-10-23 22:05 Bruxelles: fin de seance. Aucune position ouverte, aucun trade du jour (pas de donnees au passage de 15h47, rien simule). Rien a cloturer. Capital 5000 EUR (0,0 % vs depart). 0 trade cloture au total : pas de bilan (<10 trades), aucune conclusion possible (<30).",
+    "2026-10-26 15:47 Bruxelles: passage de 15h45 sans donnees (Yahoo injoignable, proxy 403 CONNECT). Aucune position ouverte a verifier, aucun scan, aucun trade. Rien simule. Capital 5000 EUR."
   ]
 }
