@@ -55,6 +55,7 @@
     "2026-11-11 18:47 Bruxelles: passage intermediaire, pas le passage de 15h45. Yahoo toujours injoignable (proxy 403 CONNECT). Aucune position ouverte a verifier, aucun trade. Rien simule. Capital 5000 EUR.",
     "2026-11-11 19:52 Bruxelles: passage intermediaire, pas le passage de 15h45. Yahoo toujours injoignable (proxy 403 CONNECT). Aucune position ouverte a verifier, aucun trade. Rien simule. Capital 5000 EUR.",
     "2026-11-11 20:45 Bruxelles: passage intermediaire, pas le passage de 15h45. Yahoo toujours injoignable (proxy 403 CONNECT). Aucune position ouverte a verifier, aucun trade. Rien simule. Capital 5000 EUR.",
-    "2026-11-11 21:46 Bruxelles: passage intermediaire, pas le passage de 15h45. Yahoo toujours injoignable (proxy 403 CONNECT). Aucune position ouverte a verifier ni a cloturer. Aucun trade. Rien simule. Capital 5000 EUR."
+    "2026-11-11 21:46 Bruxelles: passage intermediaire, pas le passage de 15h45. Yahoo toujours injoignable (proxy 403 CONNECT). Aucune position ouverte a verifier ni a cloturer. Aucun trade. Rien simule. Capital 5000 EUR.",
+    "2026-11-11 22:05 Bruxelles: fin de seance (US ouverte, mercredi). Yahoo toujours injoignable (code 000/proxy), aucune donnee de la journee. Aucune position ouverte, aucun trade du jour : rien a cloturer, R = 0, P&L = 0. Rien simule. Capital 5000 EUR (0,0 % vs depart). 0 trade cloture au total : pas de bilan (<10), aucune conclusion (<30)."
   ]
 }
