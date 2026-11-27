@@ -140,6 +140,7 @@
     "2026-11-26 21:46 Bruxelles: passage intermediaire, pas le passage de 15h45. Aucune position ouverte a verifier ni a cloturer, aucun trade. Rien simule. Capital 5000 EUR.",
     "2026-11-27 15:47 Bruxelles: passage de 15h45 sans donnees (Yahoo injoignable, code 000/proxy). Aucune position ouverte a verifier, aucun scan, aucun trade. Rien simule. Capital 5000 EUR. NB: le 2026-11-26 etait Thanksgiving (bourse US fermee), les notes de passage de ce jour sont a titre informatif; le 27 est une demi-seance (fermeture 19h00 Bruxelles).",
     "2026-11-27 16:46 Bruxelles: passage de verification. Aucune position ouverte, rien a verifier. Pas le passage de 15h45 : aucun nouveau trade. Capital 5000 EUR. (Seance ecourtee veille-Thanksgiving+1, fermeture US 19h00 Bruxelles.)",
-    "2026-11-27 17:46 Bruxelles: passage intermediaire, pas le passage de 15h45. Aucune position ouverte a verifier, aucun trade. Rien simule. Capital 5000 EUR."
+    "2026-11-27 17:46 Bruxelles: passage intermediaire, pas le passage de 15h45. Aucune position ouverte a verifier, aucun trade. Rien simule. Capital 5000 EUR.",
+    "2026-11-27 19:46 Bruxelles: bourse US deja fermee (demi-seance, fermeture 19h00), pas le passage de 15h45. Aucune position ouverte a verifier, aucun trade. Rien simule. Capital 5000 EUR."
   ]
 }
